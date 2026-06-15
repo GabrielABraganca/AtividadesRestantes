@@ -1,2 +1,2 @@
 # AtividadesRestantes
-Atividades restantes da diciplina Estrutura de Dados e Algoritmos UNIBH
+Atividades restantes da disciplina Estrutura de Dados e Algoritmos UNIBH
